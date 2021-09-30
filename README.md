@@ -60,9 +60,9 @@ I'm Ksenia, a passionate self-taught full stack web developer from Russia. I hav
 &nbsp;
 [<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />][learning_next_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Vue-282C34?logo=next.js&logoColor=FFFFFF" alt="Vue logo" title="Vue" height="25" />][learning_next_anchor]
+[<img src="https://img.shields.io/badge/Vue-282C34?logo=vue&logoColor=FFFFFF" alt="Vue logo" title="Vue" height="25" />][learning_next_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Angular-282C34?logo=next.js&logoColor=FFFFFF" alt="Angular logo" title="Angular" height="25" />][learning_next_anchor]
+[<img src="https://img.shields.io/badge/Angular-282C34?logo=angular&logoColor=FFFFFF" alt="Angular logo" title="Angular" height="25" />][learning_next_anchor]
 
 
 ## 🔍  Where to find me
