@@ -1,8 +1,8 @@
 ### Hi there 👋
 I'm Ksenia, a passionate self-taught full stack web developer from Russia. I have passion for elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KseniaNikolaychuk&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KseniaNikolaychuk&layout=compact)](https://github.com/Trezxqe/resto-service)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KseniaNikolaychuck&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KseniaNikolaychuck&layout=compact)](https://github.com/Trezxqe/resto-service)
 
 ## 🛠  Technologies and tools
 
