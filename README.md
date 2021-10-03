@@ -70,9 +70,9 @@ I'm Ksenia, a passionate self-taught full stack web developer from Russia. I hav
 
 ## 🔍  Where to find me
 
-[<img src="https://img.shields.io/badge/WhatsApp-282C34?logo=whatsapp" alt="Stack Overflow logo" title="Stack Overflow" height="25" />](https://wa.me/89116109031)
+[<img src="https://img.shields.io/badge/WhatsApp-282C34?logo=whatsapp" alt="Stack Overflow logo"  height="25" />](https://wa.me/89116109031)
 &nbsp;
-[<img src="https://img.shields.io/badge/Telegram-282C34?logo=telegram" alt="Stack Overflow logo" title="Stack Overflow" height="25" />](https://wa.me/89116109031)
+[<img src="https://img.shields.io/badge/Telegram-282C34?logo=telegram" alt="Stack Overflow logo"  height="25" />](https://wa.me/89116109031)
 &nbsp;
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/valentinbriand42)
 
