@@ -4,7 +4,7 @@ I'm Ksenia, a passionate self-taught full stack web developer from Russia. I hav
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KseniaNikolaychuck&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KseniaNikolaychuck&layout=compact)](https://github.com/Trezxqe/resto-service)
 
-## 🛠  Technologies and tools
+## 🛠 Technologies and tools
 
 <a name="learning-now"></a>
 
