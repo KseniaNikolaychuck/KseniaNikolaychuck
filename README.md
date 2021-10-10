@@ -55,7 +55,6 @@ I'm Ksenia, a passionate self-taught full stack web developer from Russia. I hav
 &nbsp;
 [<img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Shopify-282C34?logo=shopify&logoColor=61DAFB" alt="React Native logo" title="Shopify" height="25" />][tech_tools_anchor]
 
 
 ## 👾  What I am interested in learning at some point
