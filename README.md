@@ -64,15 +64,3 @@ I'm Ksenia, a passionate self-taught full stack web developer from Russia. I hav
 &nbsp;
 [<img src="https://img.shields.io/badge/Angular-282C34?logo=angular&logoColor=FFFFFF" alt="Angular logo" title="Angular" height="25" />][learning_next_anchor]
 
-
-## 🔍  Where to find me
-
-[<img src="https://img.shields.io/badge/WhatsApp-282C34?logo=whatsapp" alt="Stack Overflow logo"  height="25" />](https://wa.me/89116109031)
-&nbsp;
-[<img src="https://img.shields.io/badge/Telegram-282C34?logo=telegram" alt="Stack Overflow logo"  height="25" />](https://tg.me/89116109031)
-&nbsp;
-
-
-[tech_tools_anchor]: #bonjour--
-[learning_now_anchor]: #learning-now
-[learning_next_anchor]: #learning-next
